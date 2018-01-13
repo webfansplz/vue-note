@@ -1,1 +1,1 @@
-[hello](https://github.com/webfansplz/vue-note/issues/1)
+[hello](https://github.com/webfansplz/vue-note/issues/2)
